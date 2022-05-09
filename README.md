@@ -1,41 +1,47 @@
 # **Takım İsmi**
 
-Takım X
+Takım 149
 
 # Ürün İle İlgili Bilgiler
 
 ## Takım Elemanları
 
-- John Doe: Product Owner
-- Jane Doe: Scrum Master
-- Atıl Samancıoğlu: Team Member/Developer
+- Elif Erol: Product Owner/Developer
+- Damla Kalli: Scrum Master/Developer
+- Serhat Öztürk: Team Member/Developer
 
 ## Ürün İsmi
 
---Movie App--
+--Wo-In--
 
 ## Ürün Açıklaması
 
-- Movie App uygulamamız ile insanların izlemek istediği filmlere ve dizilere daha kolay karar vermesini sağlayacağız. İçerisinde binlerce filmi barındıran uygulamamız aynı zamanda Netflix, Prime vb. platformlarda yayınlanıp yayınlanmadığını ve IMDB puanlarını da gösterecek.
+- Wo-In ile kadın istihdamını arttırıp iş yaşamında toplumsal cinsiyet eşitliğine dikkat eden kurumlar yetiştirmeyi hedefliyoruz. Meslek geliştirme departmanımızda nitelikli eğitim ve toplumsal cinsiyet ilkelerine dayalı olarak kadınlarımızı ilgi alanları doğrultusunda yetiştirerek anlaşmalı kurumlarımızda işlere yerleştirecek, danışmanlık departmanımızda ise eşitsizliklerin azaltılması, toplumsal cinsiyet eşitliği, barış adalet ve güçlü kurumlar ilkelerine dayalı olarak 1:1 mentörlük desteği ve alanında uzman kişilerle çalışabilme olanağı sağlayacağız. 
 
 ## Ürün Özellikleri
+Katılımcılar için
+- Nitelikli eğitim ilkesine dayalı olarak kadınların ilgi alanlarına yönelik eğitimlerin tasarlanması
+- 1:1 mentörlük desteği
+- Zaman ve mekandan bağımsız asenkron eğitim videoları
+- Akran öğrenmesini destekleyen ve serbest kürsüye olanak sağlayan chat bölümü
+- Öğrenmeyi eğlenceli hale getirmek için haftalık meydan okuma görevleri
 
-- Filmleri türüne göre ayırma
-- Filmlerin yönetmen, aktör, aktris vb. bilgilerini posteriyle birlikte gösterme
-- IMDB ve Rotten Tomatoes puanlarını gösterme
-- Netflix'te ve Prime'da bulunurluğunu gösterme
+Kurumlar için
+- Alanında uzman kadınlarla çalışabilme olanağı sağlayamak
+- Sürdürülebilir kalkınma amaçlarından eşitsizliklerin azaltılması, toplumsal cinsiyet eşitliği, barış adalet ve güçlü kurumlar ilkelerine dayalı olarak 1:1 mentörlük desteği almak
+- Zaman ve mekandan bağımsız asenkron eğitim videoları
+- Kurumlararası bilgi alışverişini destekleyen ve serbest kürsüye olanak sağlayan chat bölümü
+- Öğrenmeyi eğlenceli hale getirmek için haftalık meydan okuma görevleri
 
 ## Hedef Kitle
 
-- Netflix kullanıcıları
-- Prime kullanıcıları
-- Sinema severler
-- Dizi severler
-- 15 - 65 yaş arası kullanıcılar
+- 18+ yaşında ilgi alanları doğrultusunda çalışmak isteyen kadınlar
+- Sürdürülebilir Kalkınma Amaçlarından eşitsizliklerin azaltılması, toplumsal cinsiyet eşitliği, barış, adalet ve güçlü kurumlar oluşturmak isteyen şirketler
+- 1:1 mentörlük almak isteyen bireyler
 
 ## Product Backlog URL
 
-[Miro Backlog Board](https://miro.com/app/board/uXjVOSSCpsI=/)
+[Miro Backlog Board] https://miro.com/app/board/uXjVO2lMvS0=/
 
 ---
 
@@ -51,27 +57,25 @@ Takım X
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının zamansal sebeplerden ötürü Slack üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları google dokümanlar olarak paylaşılmıştır. (https://docs.google.com/document/d/1MUyXisdILFKVUppZTlbxq5tNQZ_c3luuW--xGtOFaIw/edit?usp=sharing)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog1.png) 
-![Backlog 2](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog2.png) 
-![Backlog 3](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/main/ProjectManagement/Sprint1Documents/backlog3.png)
-
-- **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss1.png?raw=true)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/productss2.png?raw=true)
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/1.png) 
+![Backlog 2](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.png) 
+![Backlog 3](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.png)
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: Developerlarımızdan ikisi katkı sağlayamadıkları için akademiyi bırakma kararı aldı. Ekip yoğunluğu baz alındığında proje fikrinin yapılamayacağı ön görülerek mezun olabilmek için hesap makinesi yapma kararı alındı. 
+Sprint Review katılımcıları: Damla Kalli, Elif Erol, Serhat Öztürk
 
 - **Sprint Retrospective:**
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
-  - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Product Owner ve Scrum Master'ın aynı zamanda developer olarak görev almasına kararı verilmiştir.
+  - Hesap makinesi uygulaması üzerine yoğunlaşılmasına karar verilmiştir.
 
 -**Diğer Notlar**:
-- N/A
+- Kullanıcı hikayelerinin puanlaması 100 üzerinden yapılmıştır.
+- İlk sprintte developerlar görevlerini yerine getirmeden ayrıldıkları için kodlama yapılamamıştır.
+- İlk hafta başka bir proje fikri ile başlanmış fakat daha sonra müşteri görüşmelerinde problem teyit edilemediği için proje fikri değiştirilmiştir. Toplantı notlarında ayrıntılı bilgi yer almaktadır.
 
 ---
 
