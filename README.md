@@ -80,6 +80,37 @@ Sprint Review katılımcıları: Damla Kalli, Elif Erol, Serhat Öztürk
 ---
 
 # Sprint 2
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları google dokümanlar olarak paylaşılmıştır. (https://docs.google.com/document/d/1MUyXisdILFKVUppZTlbxq5tNQZ_c3luuW--xGtOFaIw/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.1.png) 
+![Backlog 2](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.2.png) 
+![Backlog 3](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.3.png)
+
+ **Ürün Durumu**: Uygulama screenshotları:
+ ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.app.jpeg)
+ ![Logo](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/2.Logo.jpeg)
+ 
+- **Sprint Review**: 
+Alınan kararlar: Sınav haftası sebebiyle ekip üyelerinden Serhat Öztürk bu sprintte aktif katılım sağlayamadı. Üçüncü sprintte ekip üyelerinin tamamının katılması durumunda bilimsel hesap makinesinin eklenmesine karar verildi.
+Sprint Review katılımcıları: Damla Kalli, Elif Erol
+
+- **Sprint Retrospective:**
+- Bilimsel hesap makinesinin eklenmesi
+- Gece/gündüz modu üzerine çalışılması
+- Görev dağılımlarının üzerinden geçilmesi
+
+-**Diğer Notlar**:
+- Kullanıcı hikayelerinin puanlaması 100 üzerinden yapılmıştır. 
+- İkinci sprintte basit bir hesap makinesi üzerine çalışma gerçekleştirilmiştir. Üçüncü sprintte ekip gücü ve süre de göz önünde bulundurularak kompleksleştirilmesi hedeflenmektedir.
 
 
 ---
