@@ -106,7 +106,7 @@ Sprint Review katılımcıları: Damla Kalli, Elif Erol
 - **Sprint Retrospective:**
 - Bilimsel hesap makinesinin eklenmesi
 - Gece/gündüz modu üzerine çalışılması
-- Görev dağılımlarının üzerinden geçilmesi
+- Görev dağılımlarının üzerinden geçilmesi.
 
 -**Diğer Notlar**:
 - Kullanıcı hikayelerinin puanlaması 100 üzerinden yapılmıştır. 
