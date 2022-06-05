@@ -135,7 +135,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
  ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.1.jpeg)
  ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.2.jpeg)
  ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.3.jpeg)
- ![video](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/video.mp4)
+
  
 - **Sprint Review**: 
 Alınan kararlar: Bilimsel hesap makinesi iş gücü yetersizliği sebebiyle gerçekleştirilemedi. % ve parantez fonksiyonları güvenilir sonuç vermediği için çıkarılma kararı alındı. Çıkarılan fonksiyonlar yerine yeni fonksiyonlar eklendi.
