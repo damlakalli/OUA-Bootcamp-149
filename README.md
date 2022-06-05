@@ -116,5 +116,33 @@ Sprint Review katılımcıları: Damla Kalli, Elif Erol
 ---
 
 # Sprint 3
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
 
+- **Sprint içinde tamamlanması tahmin edilen puan**: 180 Puan
+
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. 
+
+Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantı notları google dokümanlar olarak paylaşılmıştır. (https://docs.google.com/document/d/1MUyXisdILFKVUppZTlbxq5tNQZ_c3luuW--xGtOFaIw/edit?usp=sharing)
+
+- **Sprint board update**: Sprint board screenshotları:
+![Backlog 1](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.a.png) 
+![Backlog 2](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.b.png) 
+![Backlog 3](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.c.png)
+
+ **Ürün Durumu**: Uygulama screenshotları:
+ ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.1.jpeg)
+ ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.2.jpeg)
+ ![Uygulama](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/3.3.jpeg)
+ ![video](https://github.com/damlakalli/OUA-Bootcamp-149/blob/main/ProjectManagement/Sprint1Documents/video.mp4)
+ 
+- **Sprint Review**: 
+Alınan kararlar: Bilimsel hesap makinesi iş gücü yetersizliği sebebiyle gerçekleştirilemedi. % ve parantez fonksiyonları güvenilir sonuç vermediği için çıkarılma kararı alındı. Çıkarılan fonksiyonlar yerine yeni fonksiyonlar eklendi.
+Sprint Review katılımcıları: Damla Kalli, Elif Erol, Serhat Öztürk
+
+
+-**Diğer Notlar**:
+- Kullanıcı hikayelerinin puanlaması 180 üzerinden yapılmıştır. 
+- Çıkarılan fonksiyonlar yerine C, <, +/- fonksiyonları eklenmiştir.
 ---
